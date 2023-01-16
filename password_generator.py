@@ -1,4 +1,5 @@
-#password_generator
+#Password Generator
+
 """
 STEPS
 1. get ingredients(numbers, symbols, letters)
