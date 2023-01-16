@@ -2,9 +2,9 @@
 
 """
 STEPS
-1. get ingredients(numbers, symbols, letters)
-2. enter a password ~ the action~
-3. if password length is equal to itself, replace it with a random letter, number, or symbol
+1. Get the numbers, symbols, letters
+2. Enter a password 
+3. If password length is equal to itself, replace it with a random letter, number, or symbol
 """
 from random import sample
 
